@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <div id="badges">
   <a href="https://leetcode.com/kushalsng/">
-    <img src="https://img.shields.io/badge/LeetCode-blue?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
+    <img src="https://img.shields.io/badge/LeetCode-brown?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
   </a>
   <a href="https://www.codechef.com/users/kushalsng">
     <img src="https://img.shields.io/badge/CodeChef-yellow?style=for-the-badge&logo=codechef&logoColor=white" alt="Codechef Badge"/>
