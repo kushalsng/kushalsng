@@ -1,5 +1,13 @@
 ### Hi there 👋, I'm Kushal  
 ![GitHub Views](https://komarev.com/ghpvc/?username=kushalsng)
+<div>
+  <a href="https://drive.google.com/file/d/10GbW3EMX8eoEfLLsaiqDhk7wUg4pY-W7/view" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/Resume-Click%20Here-0F9D58?style=for-the-badge&logo=google-drive&logoColor=white" 
+      alt="Resume Button"
+    />
+  </a>
+</div>
 
 ---
 
@@ -7,18 +15,15 @@ A **Full Stack Java & Spring Boot Engineer** passionate about building **cloud-n
 **Spring Boot · Microservices · Docker · Kubernetes · AWS · Azure · PostgreSQL · React**.
 
 I focus heavily on **backend engineering**, **distributed systems**, and **DevOps automation**—while still loving to build clean and interactive **React** frontends.
-
 ---
-
 ### 🚀 What I Do
 - 🔭 Currently building production-grade systems using **Spring Boot, Java, Microservices, PostgreSQL, Docker, Azure**
 - 🌱 Previously worked extensively on **React**, full-stack applications, and cloud automation
 - 👯 Looking to collaborate on **Spring, Cloud Native, and Distributed Systems** projects
 - 💬 Ask me about **Spring Boot, Microservices, HL7, Cloud, CI/CD, DSA**
-- ⚡ Strong problem-solving foundation with competitive programming background  
+- ⚡ Strong problem-solving foundation with competitive programming background
 
 ---
-
 <div id="badges">
   <a href="https://leetcode.com/kushalsng/">
     <img src="https://img.shields.io/badge/LeetCode-brown?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
@@ -67,5 +72,5 @@ I focus heavily on **backend engineering**, **distributed systems**, and **DevOp
 ### 🌐 Connect with Me
 
 - ✉️ Email – [singhkushal635@gmail.com](mailto:singhkushal635@gmail.com)  
-- 🖥 Portfolio – https://kushalsng.github.io/react3d-portfolio/  
-- 💼 LinkedIn – https://www.linkedin.com/in/kushalsng/  
+- 🖥 Portfolio – [https://kushalsinghportfolio.vercel.app/](https://kushalsinghportfolio.vercel.app/) 
+- 💼 LinkedIn – [https://www.linkedin.com/in/kushalsng/](https://www.linkedin.com/in/kushalsng/)  
