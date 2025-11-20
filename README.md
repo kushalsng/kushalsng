@@ -3,7 +3,7 @@
 <div>
   <a href="https://drive.google.com/file/d/10GbW3EMX8eoEfLLsaiqDhk7wUg4pY-W7/view" target="_blank">
     <img 
-      src="https://img.shields.io/badge/Resume-Click%20Here-0F9D58?style=for-the-badge&logo=google-drive&logoColor=white" 
+      src="https://img.shields.io/badge/Resume-0F9D58?style=for-the-badge&logo=google-drive&logoColor=white" 
       alt="Resume Button"
     />
   </a>
