@@ -1,17 +1,23 @@
-### Hi there 👋, I'm Kushal
+### Hi there 👋, I'm Kushal  
 ![GitHub Views](https://komarev.com/ghpvc/?username=kushalsng)
 
-<!--
-*kushalsng/kushalsng* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
--->
+A **Full Stack Java & Spring Boot Engineer** passionate about building **cloud-native**, **high-performance**, and **scalable** applications using  
+**Spring Boot · Microservices · Docker · Kubernetes · AWS · Azure · PostgreSQL · React**.
 
-- 🔭 I’m currently working on Node.js
-- 🌱 I've made projects and done internships in MERN stack
-- 👯 I’m looking to collaborate on MERN projects
-- 💬 Ask me about Node.js and competitve programming
-- 🚀 I've good knowledge of Data Structures and Algorithms
+I focus heavily on **backend engineering**, **distributed systems**, and **DevOps automation**—while still loving to build clean and interactive **React** frontends.
+
+---
+
+### 🚀 What I Do
+- 🔭 Currently building production-grade systems using **Spring Boot, Java, Microservices, PostgreSQL, Docker, Azure**
+- 🌱 Previously worked extensively on **React**, full-stack applications, and cloud automation
+- 👯 Looking to collaborate on **Spring, Cloud Native, and Distributed Systems** projects
+- 💬 Ask me about **Spring Boot, Microservices, HL7, Cloud, CI/CD, DSA**
+- ⚡ Strong problem-solving foundation with competitive programming background  
+
+---
 
 <div id="badges">
   <a href="https://leetcode.com/kushalsng/">
@@ -24,36 +30,42 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/CodeForces-blue?style=for-the-badge&logo=codeforces&logoColor=white" alt="CodeForces Badge"/>
   </a>
 </div>
-<!--
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### 🛠️ Languages & Tools
+
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cplusplus" alt="Cplusplus" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring Boot" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg"  title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg"  title="Vscode" alt="Vscode" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"  title="NPM" alt="NPM" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
 
 ---
 
-###  Github Statistics :
+### 📊 GitHub Statistics
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kushalsng&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kushalsng)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=kushalsng&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kushalsng)](https://github.com/anuraghazra/github-readme-stats)
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kushalsng&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+---
+
+### 🌐 Connect with Me
+
+- ✉️ Email – [singhkushal635@gmail.com](mailto:singhkushal635@gmail.com)  
+- 🖥 Portfolio – https://kushalsng.github.io/react3d-portfolio/  
+- 💼 LinkedIn – https://www.linkedin.com/in/kushalsng/  
